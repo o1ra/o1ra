@@ -33,6 +33,5 @@ Manual and automation QA engineer in Python.🐍
     <a href="https://developer.android.com/studio"><img title="Android Studio" src="logo/android-studio.png" width="50px"/></a>
 </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=o1ra&show_icons=true&locale=en&layout=compact" alt="o1ra" /></p>
 <p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=o1ra&theme=github" alt="stats_o1ra" /></p> 
