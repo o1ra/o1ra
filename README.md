@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**o1ra/o1ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Irina
+I"m a manual and automation QA in Python.
 
-Here are some ideas to get you started:
+- I like to learn new things 🔭
+- I do like automation 🤖
+- I have experience testing web and mobile 💻📱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=o1ra&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
