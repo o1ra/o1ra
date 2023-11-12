@@ -1,6 +1,6 @@
 ### Hi there 👋  
 I'm Irina  
-Manual and automation QA in Python.🐍
+Manual and automation QA engineer in Python.🐍
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=o1ra&label=Profile%20views&color=0e75b6&style=flat" alt="o1ra" /> </p>
 
