@@ -11,9 +11,9 @@ Manual and automation QA engineer in Python.🐍
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://t.me/o11ra" target="blank"><img align="left" src="logo/Telegram.svg" alt="irina-kirillova" height="30" width="40" /></a>
+<a href="mailto:irinakirillova.qa@gmail.com" target="blank"> <img align="center" src="logo/gmail.png" height="30" width="40" title="My Gmail"></a>
 <a href="https://linkedin.com/in/irina-kirillova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irina-kirillova" height="30" width="40" /></a>
-<a href="https://t.me/o11ra" target="blank"><img align="center" src="logo/Telegram.svg" alt="irina-kirillova" height="30" width="40" /></a>
-
 </p>
 
 
