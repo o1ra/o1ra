@@ -15,9 +15,9 @@ I'm a manual and automation QA in Python.🐍
 	<a href="#"><img title="Pytest" src="logo/Pytest.svg" width="50px"/></a>
 	<a href="#"><img title="Selene" src="logo/Selene.png" width="50px"/></a>
 	<a href="#"><img title="Allure_Report" src="logo/Allure_Report.svg" width="50px"/></a>
-	<a href="#"><img title="Jenkins" src="logo/Jenkins.svg" width="50px"/></a>
-	<a href="#"><img title="Browserstack" src="logo/Browserstack.svg" width="50px"/></a>
 	<a href="#"><img title="Allure Test Ops" src="logo/AllureTestOps.svg" width="50px"/></a>
+    <a href="#"><img title="Jenkins" src="logo/Jenkins.svg" width="50px"/></a>
+	<a href="#"><img title="Browserstack" src="logo/Browserstack.svg" width="50px"/></a>
     <a href="#"><img title="Jira" src="logo/Jira.svg" width="50px"/></a>
     <a href="#"><img title="Telegram" src="logo/Telegram.svg" width="50px"/></a>
     <a href="#"><img title="Android Studio" src="logo/android-studio.png" width="50px"/></a>
