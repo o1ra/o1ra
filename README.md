@@ -3,23 +3,23 @@ Manual and automation QA engineer in Python.🐍
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=o1ra&label=Profile%20views&color=0e75b6&style=flat" alt="o1ra" /> </p>
 
-<h3 align="left"> Professional Background: </h3>
+<h3 align="left"> 🚀 Professional Background: </h3>
 
 Passionate about ensuring software excellence, I'm a QA engineer with a strong foundation in manual and automation testing. My journey began at South Ural State University, where I specialized in Technosphere Safety, laying the groundwork for my commitment to software quality.
 I further honed my skills through QA.GURU's Test Automation course in Python, solidifying my expertise in test automation and Python scripting.
 
-<h3 align="left"> Key Focus Areas: </h3>
+<h3 align="left"> 🔍 Key Focus Areas: </h3>
 
 _Manual Testing:_ Conducting thorough assessments of web and mobile applications to ensure optimal user experiences.\
 _Automation Testing:_ Proficient in Python-based automation frameworks (Selene, pytest) for creating robust and scalable test scripts.\
 _Collaboration_: Working seamlessly with cross-functional teams to integrate quality assurance into the software development lifecycle.
 
-<h3 align="left"> Tech Stack: </h3>
+<h3 align="left"> 💡 Tech Stack: </h3>
 
 ****Languages:** Python\
-Tools:** Selene, pytest, Git, Allure Report, Allure Test Ops, Jenkins, Browserstack, Telegram, Android Studio\
+Tools:** Selene, pytest, Git, Allure Report, Allure Test Ops, Jenkins, Browserstack, Telegram, Charles Proxy, Android Studio\
 **Test Management:** TestRail, Qase\
-**Bug Tracking Systems:** Jira\
+**Bug Tracking Systems:** Jira
 
 
 [//]: # ()
@@ -49,12 +49,12 @@ Tools:** Selene, pytest, Git, Allure Report, Allure Test Ops, Jenkins, Browserst
 
 [//]: # (</p>)
 
-<h3 align="left"> Projects: </h3>
+<h3 align="left"> 💻 Projects: </h3>
 
 Currently contributing to Kid Security, applying my skills in manual testing.\
 
 
-<h3 align="left"> Let's Connect: </h3>
+<h3 align="left"> 📫 Let's Connect: </h3>
 
 Open to collaboration and discussions on QA, Python, or anything related to software quality. Connect with me to explore opportunities and share insights!
 
