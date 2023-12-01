@@ -3,24 +3,18 @@ Manual and automation QA engineer in Python.🐍
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=o1ra&label=Profile%20views&color=0e75b6&style=flat" alt="o1ra" /> </p>
 
-🚀 <b> Professional Background: </b>
+<b> Professional Background: </b>
 
 Passionate about ensuring software excellence, I'm a QA engineer with a strong foundation in manual and automation testing. My journey began at South Ural State University, where I specialized in Technosphere Safety, laying the groundwork for my commitment to software quality.
-
-🎓 <b> Education:</b>
-
--  South Ural State University, Specialty: Technosphere Safety
-
--  QA.GURU Alumnus: 
 I further honed my skills through QA.GURU's Test Automation course in Python, solidifying my expertise in test automation and Python scripting.
 
-🔍 <b> Key Focus Areas:</b>
+<b> Key Focus Areas:</b>
 
-Manual Testing: Conducting thorough assessments of web and mobile applications to ensure optimal user experiences.
-Automation Testing: Proficient in Python-based automation frameworks (Selene, pytest) for creating robust and scalable test scripts.
-Collaboration: Working seamlessly with cross-functional teams to integrate quality assurance into the software development lifecycle.
+_Manual Testing:_ Conducting thorough assessments of web and mobile applications to ensure optimal user experiences.\
+_Automation Testing:_ Proficient in Python-based automation frameworks (Selene, pytest) for creating robust and scalable test scripts.\
+_Collaboration_: Working seamlessly with cross-functional teams to integrate quality assurance into the software development lifecycle.
 
-💡 <b> Tech Stack: </b>
+<b> Tech Stack: </b>
 <p align="left">
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 	<a href="https://pytest.org/en/latest/"><img title="Pytest" src="logo/Pytest.svg" width="50px"/></a>
@@ -37,11 +31,18 @@ Collaboration: Working seamlessly with cross-functional teams to integrate quali
 
 
 
-💻 <b> Projects:</b>
+<b> Projects:</b>
 Currently contributing to Kid Security, applying my skills in manual testing.
 
-📫 <b> Let's Connect: </b>
+<b> Let's Connect: </b>
 Open to collaboration and discussions on QA, Python, or anything related to software quality. Connect with me to explore opportunities and share insights!
+
+[//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com?user=o1ra&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
+
+[//]: # ()
+[//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=o1ra&show_icons=true&locale=en&layout=compact" alt="o1ra" /></p>)
+
+[//]: # (<p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=o1ra&theme=github" alt="stats_o1ra" /></p> )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,9 +50,3 @@ Open to collaboration and discussions on QA, Python, or anything related to soft
 <a href="mailto:irinakirillova.qa@gmail.com" target="blank"> <img align="center" src="logo/gmail.png" height="30" width="40" title="My Gmail"></a>
 <a href="https://linkedin.com/in/irina-kirillova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irina-kirillova" height="30" width="40" /></a>
 </p>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=o1ra&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=o1ra&show_icons=true&locale=en&layout=compact" alt="o1ra" /></p>
-<p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=o1ra&theme=github" alt="stats_o1ra" /></p> 
