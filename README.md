@@ -16,8 +16,8 @@ _Collaboration_: Working seamlessly with cross-functional teams to integrate qua
 
 <h3 align="left"> 💡 Tech Stack: </h3>
 
-****Languages:** Python\
-Tools:** Selene, pytest, Git, Allure Report, Allure Test Ops, Jenkins, Browserstack, Telegram, Charles Proxy, Android Studio\
+**Languages:** Python\
+**Tools:** Selene, pytest, Git, Allure Report, Allure TestOps, Jenkins, Browserstack, Telegram, Charles Proxy, Android Studio\
 **Test Management:** TestRail, Qase\
 **Bug Tracking Systems:** Jira
 
