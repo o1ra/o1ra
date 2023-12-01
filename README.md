@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Irina  
+<img src="header.png" alt="Привет">
+
 Manual and automation QA engineer in Python.🐍
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=o1ra&label=Profile%20views&color=0e75b6&style=flat" alt="o1ra" /> </p>
@@ -58,12 +59,9 @@ Currently contributing to Kid Security, applying my skills in manual testing.\
 
 Open to collaboration and discussions on QA, Python, or anything related to software quality. Connect with me to explore opportunities and share insights!
 
-[//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com?user=o1ra&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=o1ra&show_icons=true&locale=en&layout=compact" alt="o1ra" /></p>
 
-[//]: # ()
-[//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=o1ra&show_icons=true&locale=en&layout=compact" alt="o1ra" /></p>)
-
-[//]: # (<p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=o1ra&theme=github" alt="stats_o1ra" /></p> )
+<p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=o1ra&theme=github" alt="stats_o1ra" /></p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
