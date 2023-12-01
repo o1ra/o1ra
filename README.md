@@ -6,7 +6,7 @@
 
 <h3 align="left"> 🚀 Professional Background: </h3>
 
-Passionate about ensuring software excellence, I'm a QA engineer with a knowlege in manual and automation testing. My journey began at South Ural State University, where I specialized in Technosphere Safety, laying the groundwork for my commitment to software quality.
+Passionate about ensuring software excellence, I'm a QA engineer with knowledge in manual and automation testing. My journey began at South Ural State University, where I specialized in Technosphere Safety, laying the groundwork for my commitment to software quality.
 I further honed my skills through QA.GURU's course Test Automation  in Python, solidifying my expertise in test automation and Python.
 
 <h3 align="left"> 🔍 Key Focus Areas: </h3>
