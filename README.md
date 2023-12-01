@@ -1,6 +1,6 @@
 <img src="header.png" alt="Привет">
 
-Manual and automation QA engineer in Python.🐍
+<h3 align="left"> Manual and automation QA engineer in Python.🐍 </h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=o1ra&label=Profile%20views&color=0e75b6&style=flat" alt="o1ra" /> </p>
 
