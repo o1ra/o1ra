@@ -52,7 +52,7 @@ _Collaboration_: Working seamlessly with cross-functional teams to integrate qua
 
 <h3 align="left"> 💻 Projects: </h3>
 
-Currently contributing to Kid Security, applying my skills in manual testing.\
+Currently contributing to Kid Security, applying my skills in manual testing.
 
 
 <h3 align="left"> 📫 Let's Connect: </h3>
