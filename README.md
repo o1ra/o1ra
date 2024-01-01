@@ -1,5 +1,5 @@
-<img src="header.png" alt="Привет">
-
+[//]: # (<img src="header.png" alt="Привет">)
+Hi there! I'm Irina 🙋‍♀️
 <h3 align="left"> Manual and automation QA engineer in Python.🐍 </h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=o1ra&label=Profile%20views&color=0e75b6&style=flat" alt="o1ra" /> </p>
