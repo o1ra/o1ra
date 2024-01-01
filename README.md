@@ -1,6 +1,6 @@
 [//]: # (<img src="header.png" alt="Привет">)
-Hi there! I'm Irina 🙋‍♀️
-<h3 align="left"> Manual and automation QA engineer in Python.🐍 </h3>
+<h3>Hi there! I'm Irina🙋‍♀️</h3>
+<h4 align="left"> Manual and automation QA engineer in Python.🐍 </h4>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=o1ra&label=Profile%20views&color=0e75b6&style=flat" alt="o1ra" /> </p>
 
@@ -19,7 +19,7 @@ _Collaboration_: Working seamlessly with cross-functional teams to integrate qua
 
 **Languages:** Python\
 **Tools:** Selene, pytest, Git, Allure Report, Allure TestOps, Jenkins, Browserstack, Telegram, Charles Proxy, Android Studio\
-**Test Management:** TestRail, Qase\
+**Test Management:** TestRail, Qase
 **Bug Tracking Systems:** Jira
 
 
@@ -59,9 +59,11 @@ Currently contributing to Kid Security, applying my skills in manual testing.
 
 Open to collaboration and discussions on QA, Python, or anything related to software quality. Connect with me to explore opportunities and share insights!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=o1ra&show_icons=true&locale=en&layout=compact" alt="o1ra" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o1ra&theme=default" alt="o1ra" /></p>
 
 <p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=o1ra&theme=github" alt="stats_o1ra" /></p> 
+
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o1ra&theme=default" alt="stats_o1ra"/></p>&nbsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
