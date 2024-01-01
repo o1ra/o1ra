@@ -19,7 +19,7 @@ _Collaboration_: Working seamlessly with cross-functional teams to integrate qua
 
 **Languages:** Python\
 **Tools:** Selene, pytest, Git, Allure Report, Allure TestOps, Jenkins, Browserstack, Telegram, Charles Proxy, Android Studio\
-**Test Management:** TestRail, Qase
+**Test Management:** TestRail, Qase\
 **Bug Tracking Systems:** Jira
 
 
@@ -50,9 +50,10 @@ _Collaboration_: Working seamlessly with cross-functional teams to integrate qua
 
 [//]: # (</p>)
 
-<h3 align="left"> 💻 Projects: </h3>
+[//]: # (<h3 align="left"> 💻 Projects: </h3>)
 
-Currently contributing to Kid Security, applying my skills in manual testing.
+[//]: # ()
+[//]: # (Currently contributing to Kid Security, applying my skills in manual testing.)
 
 
 <h3 align="left"> 📫 Let's Connect: </h3>
