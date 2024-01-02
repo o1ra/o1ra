@@ -13,7 +13,6 @@ I further honed my skills through QA.GURU's course Test Automation  in Python, s
 
 _Manual Testing:_ Conducting thorough assessments of web and mobile applications to ensure optimal user experiences.\
 _Automation Testing:_ Proficient in Python-based automation frameworks (Selene, pytest) for creating robust and scalable test scripts.\
-_Collaboration_: Working seamlessly with cross-functional teams to integrate quality assurance into the software development lifecycle.
 
 <h3 align="left"> 💡 Tech Stack: </h3>
 
