@@ -56,7 +56,7 @@ _Automation Testing:_ Proficient in Python-based automation frameworks (Selene, 
 [//]: # ()
 [//]: # (Currently contributing to Kid Security, applying my skills in manual testing.)
 
------
+---
 
 <h3 align="left"> 📑 My Projects </h3>
 
@@ -64,8 +64,7 @@ _Automation Testing:_ Proficient in Python-based automation frameworks (Selene, 
 
 ### [API tests for the demowebshop.tricentis.com](https://github.com/o1ra/demo_web_shop)
 
-
------
+---
 
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o1ra&theme=default" alt="o1ra" /></p>
