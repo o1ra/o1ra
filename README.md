@@ -55,10 +55,6 @@ _Automation Testing:_ Proficient in Python-based automation frameworks (Selene, 
 [//]: # (Currently contributing to Kid Security, applying my skills in manual testing.)
 
 
-<h3 align="left"> 📫 Let's Connect: </h3>
-
-Open to collaboration and discussions on QA, Python, or anything related to software quality. Connect with me to explore opportunities and share insights!
-
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o1ra&theme=default" alt="o1ra" /></p>
 
 <p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=o1ra&theme=github" alt="stats_o1ra" /></p> 
