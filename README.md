@@ -14,12 +14,12 @@ I further honed my skills through QA.GURU's course Test Automation  in Python, s
 <h3 align="left"> 🔍 Key Focus Areas: </h3>
 
 _Manual Testing:_ Conducting thorough assessments of web and mobile applications to ensure optimal user experiences.\
-_Automation Testing:_ Proficient in Python-based automation frameworks (Selene, pytest) for creating robust and scalable test scripts 
+_Automation Testing:_ Proficient in Python-based automation frameworks (Selene, Pytest) for creating robust and scalable test scripts 
 
 <h3 align="left"> 💡 Tech Stack: </h3>
 
 **Languages:** Python\
-**Tools:** Selene, pytest, Git, Allure Report, Allure TestOps, Jenkins, Browserstack, Telegram, Charles Proxy, Android Studio\
+**Tools:** Selene, Pytest, Git, Allure Report, Allure TestOps, Jenkins, Browserstack, Telegram, Charles Proxy, Android Studio\
 **Test Management:** TestRail, Qase\
 **Bug Tracking Systems:** Jira
 
@@ -56,7 +56,7 @@ _Automation Testing:_ Proficient in Python-based automation frameworks (Selene, 
 [//]: # ()
 [//]: # (Currently contributing to Kid Security, applying my skills in manual testing.)
 
----
+-----
 
 <h3 align="left"> 📑 My Projects </h3>
 
@@ -65,7 +65,7 @@ _Automation Testing:_ Proficient in Python-based automation frameworks (Selene, 
 ### [API tests for the demowebshop.tricentis.com](https://github.com/o1ra/demo_web_shop)
 
 
----
+-----
 
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o1ra&theme=default" alt="o1ra" /></p>
