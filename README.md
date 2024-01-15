@@ -4,6 +4,8 @@
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=o1ra&label=Profile%20views&color=0e75b6&style=flat" alt="o1ra" /> </p>
 
+----
+
 <h3 align="left"> 🚀 Professional Background: </h3>
 
 Passionate about ensuring software excellence, I'm a QA engineer with knowledge in manual and automation testing. My journey began at South Ural State University, where I specialized in Technosphere Safety, laying the groundwork for my commitment to software quality.
@@ -54,6 +56,7 @@ _Automation Testing:_ Proficient in Python-based automation frameworks (Selene, 
 [//]: # ()
 [//]: # (Currently contributing to Kid Security, applying my skills in manual testing.)
 
+----
 
 <h3 align="left"> 📑 My Projects </h3>
 
@@ -61,6 +64,8 @@ _Automation Testing:_ Proficient in Python-based automation frameworks (Selene, 
 
 ### [API tests for the demowebshop.tricentis.com](https://github.com/o1ra/demo_web_shop)
 
+
+----
 
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o1ra&theme=default" alt="o1ra" /></p>
