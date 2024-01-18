@@ -64,15 +64,15 @@ _Automation Testing:_ Proficient in Python-based automation frameworks (Selene, 
 
 ### [API tests for the demowebshop.tricentis.com](https://github.com/o1ra/demo_web_shop)
 
----
+### [Mobile tests for the Intertop application on Android](https://github.com/o1ra/intertop)
 
+---
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o1ra&theme=default" alt="o1ra" /></p>
 
 <p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=o1ra&theme=github" alt="stats_o1ra" /></p> 
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o1ra&theme=default" alt="stats_o1ra"/></p>&nbsp;
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/o11ra" target="blank"><img align="center" src="logo/Telegram.svg" alt="irina-kirillova" height="30" width="40" /></a>
