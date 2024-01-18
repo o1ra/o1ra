@@ -64,7 +64,7 @@ _Automation Testing:_ Proficient in Python-based automation frameworks (Selene, 
 
 ### [API tests for the demowebshop.tricentis.com](https://github.com/o1ra/demo_web_shop)
 
-### [Mobile tests for the Intertop application on Android](https://github.com/o1ra/intertop)
+### [Mobile tests for the Intertop app on Android](https://github.com/o1ra/intertop)
 
 ---
 
