@@ -18,7 +18,7 @@ _Automation Testing:_ Proficient in Python-based automation frameworks (Selene, 
 
 <h3 align="left"> 💡 Tech Stack: </h3>
 
-**Languages:** Python\
+**Languages:** Python\Java
 **Tools:** Selene, Pytest, Git, Allure Report, Allure TestOps, Jenkins, Browserstack, Telegram, Charles Proxy, Appium, Android Studio\
 **Test Management:** TestRail, Qase\
 **Bug Tracking Systems:** Jira
